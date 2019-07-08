@@ -1,0 +1,4 @@
+node_mudules
+.tmp
+.sass-cache
+builds/**/images
