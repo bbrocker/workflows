@@ -4,7 +4,11 @@
   "description": "A project to showcase workflows",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/bbrocker/workflows"
   },
-  "author": "Bill Brocker"
+  "author": "Bill Brocker",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-util": "^3.0.8"
+  }
 }
